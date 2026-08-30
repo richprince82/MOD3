@@ -12,7 +12,7 @@ By using G0DM0D3 -- whether through the web frontend, the API server, or a self-
 
 ## 2. What G0DM0D3 Is
 
-G0DM0D3 is an open-source research tool for AI safety, red teaming, and cognition research. It is provided **as-is** for experimentation and study. It is not a commercial product, and there is no company behind it -- just an open-source project and its contributors.
+G0DM0D3 is an  research tool for AI safety, red teaming, and cognition research. It is provided **as-is** for experimentation and study. It is not a commercial product, and there is no company behind it -- just an open-source project and its contributors.
 
 ---
 
